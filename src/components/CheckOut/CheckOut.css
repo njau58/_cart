@@ -1,0 +1,29 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+  }
+  
+  .checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .emptyCart__button {
+    background: #ff4242;
+    border: 1px solid;
+    margin-top: 5px;
+    height: 35px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
